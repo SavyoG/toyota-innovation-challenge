@@ -3,6 +3,7 @@ This repositiory contains our team's code for the Toyota Motor Manufacturing Com
 This repo is a mirror of the original codebase for the team which can be found here: https://github.com/Mevan-Solanga/Toyota-Innovation-Challenge
 
 ## Our Approach
+Used the OpenCV `blobDetector` function for detecting the holes in different lighting scenarios.
 
 ## Results
 
